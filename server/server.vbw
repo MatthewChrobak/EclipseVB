@@ -1,0 +1,15 @@
+modConstants = -270, 102, 600, 568, 
+modDatabase = -255, 110, 921, 536, 
+modGameLogic = 0, 0, 832, 451, 
+modGeneral = 0, 0, 962, 404, 
+modGlobals = 0, 0, 0, 0, C
+modHandleData = 78, 78, 1254, 504, 
+modServerTCP = 0, 0, 832, 451, 
+modSysTray = 0, 0, 0, 0, C
+modTypes = 25, 25, 857, 476, 
+frmServer = 25, 25, 895, 491, , 175, 175, 1007, 626, C
+modServerLoop = 175, 175, 1007, 626, Z
+modEnumerations = 52, 52, 1228, 478, 
+modPlayer = 150, 150, 982, 601, 
+clsBuffer = 100, 100, 916, 551, 
+modCombat = 125, 125, 940, 576, 
